@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <g stroke="#ead8b2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="300" cy="300" r="250" stroke-width="5"/>
+    <circle cx="300" cy="300" r="221" stroke-width="2"/>
+    <circle cx="300" cy="300" r="174" stroke-width="2" stroke-dasharray="4 9"/>
+    <path d="M300 43v38M300 519v38M43 300h38M519 300h38" stroke-width="8"/>
+    <path d="M118 118l27 27M455 455l27 27M118 482l27-27M455 145l27-27" stroke-width="5"/>
+    <g stroke-width="2">
+      <path d="M300 81l9 31-9 24-9-24 9-31ZM300 519l9-31-9-24-9 24 9 31Z"/>
+      <path d="M81 300l31-9 24 9-24 9-31-9ZM519 300l-31-9-24 9 24 9 31-9Z"/>
+      <path d="M145 145l28 15 10 23-23-10-15-28ZM455 455l-28-15-10-23 23 10 15 28Z"/>
+      <path d="M145 455l15-28 23-10-10 23-28 15ZM455 145l-15 28-23 10 10-23 28-15Z"/>
+    </g>
+    <path d="M300 103l47 150 150 47-150 47-47 150-47-150-150-47 150-47 47-150Z" stroke-width="4"/>
+    <path d="M300 135l23 142-23 23-23-23 23-142Z" fill="#ead8b2" fill-opacity=".34" stroke-width="3"/>
+    <path d="M465 300l-142 23-23-23 23-23 142 23Z" fill="#ead8b2" fill-opacity=".16" stroke-width="3"/>
+    <circle cx="300" cy="300" r="25" fill="#ead8b2" fill-opacity=".14" stroke-width="4"/>
+    <circle cx="300" cy="300" r="8" fill="#ead8b2" stroke="none"/>
+  </g>
+  <g fill="#ead8b2" font-family="Georgia, serif" font-size="34" font-weight="700" text-anchor="middle">
+    <text x="300" y="33">N</text><text x="300" y="594">S</text>
+    <text x="22" y="312">W</text><text x="578" y="312">E</text>
+  </g>
+</svg>
